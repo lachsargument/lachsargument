@@ -6,7 +6,7 @@
 
 <br>
 
-[![GitHub Roast Score Badge](https://ghfind.com/api/badge/salmonarg)](https://ghfind.com/u/salmonarg?ref=badge)
+[![GitHub Roast score badge](https://ghfind.com/api/badge/lachsargument)](https://ghfind.com/u/lachsargument?ref=badge)
 
 `LOVE YOU ALL`
 
