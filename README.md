@@ -6,16 +6,34 @@ GIS student. Knows a little `C`, `Python`, `Go`, and `TypeScript`.
 
 [![GitHub Roast score badge](https://ghfind.com/api/badge/lachsargument)](https://ghfind.com/u/lachsargument?ref=badge)
 
+```jsonc
+{
+  "devices": {
+    "computing": {
+      "MacBook Air": { // primary computing device
+        "Chip": "M4",
+        "RAM": 25769803776,
+        "OS": "macOS Sequoia 15.7.7"
+      },
+      "Pixel 9a": { "OS": "Android 17" },
+      "Panasonic CF-RZ6": { "OS": "Arch Linux" },
+      "VAIO PCG-C1": { "OS": ["Adélie Linux", "9front"] }
+    },
+    "others": {
+      "Headphones": "Sony MDR-M1",
+      "Floppy Disk Camera": "Sony MVC-FD200" // funny
+    }
+  },
+  "VPS": {
+    "Tencent Cloud": { "vCPU": 4, "RAM": 3832344576, "OS": "Rocky Linux 9.7" },
+    "GCP": { "type": "e2-micro", "RAM": 1011421184, "OS": "Debian GNU/Linux 13" }
+  }
+}
+```
+
 `LOVE YOU <3`
 
 <br>
-
-<!--
-
-[![Top Langs-Dark](https://github-readme-stats-teal-omega-53.vercel.app/api/top-langs/?username=salmonarg&show_icons=true&theme=github_dark_dimmed&hide=html&layout=compact&stats_format=bytes&langs_count=10#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats-teal-omega-53.vercel.app/api/top-langs/?username=salmonarg&show_icons=true&theme=default&hide=html&layout=compact&stats_format=bytes&langs_count=10#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
--->
 
 連絡先:
 
