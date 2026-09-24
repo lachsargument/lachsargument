@@ -1,14 +1,12 @@
 > You can call me `"khangai"` or whatever you like.
 
-`C`, `Python`, `Go`, and `TypeScript`
-
-`Ghostty`, `Neovim`, `Ungoogled Chromium`
+GIS student. Knows a little `C`, `Python`, `Go`, and `TypeScript`.
 
 <br>
 
 [![GitHub Roast score badge](https://ghfind.com/api/badge/lachsargument)](https://ghfind.com/u/lachsargument?ref=badge)
 
-`LOVE YOU ALL`
+`LOVE YOU <3`
 
 <br>
 
