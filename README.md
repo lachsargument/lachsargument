@@ -37,18 +37,14 @@ GIS student. Knows a little `C`, `Python`, `Go`, and `TypeScript`.
 
 連絡先:
 
-<table>
-<td>Shyake</td>
-<td><code>khangai@shyake.eee.coffee</code></td>
-</tr>
-<tr>
-<td>Email</td>
-<td><code>salmon.caffeine@gmail.com</code></td>
-</tr>
-<tr>
-<td></td>
-<td><code>khangai@caffeine.ink</code></td>
-</tr>
-</table>
+```json
+{
+  "Shyake": "khangai@shyake.eee.coffee",
+  "Email": [
+    "salmon.caffeine@gmail.com",
+    "khangai@caffeine.ink"
+  ]
+}
+```
 
 ここではないどこかに: [`freeCodeCamp`](https://www.freecodecamp.org/lachsargument)
