@@ -10,14 +10,14 @@ GIS student. Knows a little `C`, `Python`, `Go`, and `TypeScript`.
 {
   "devices": {
     "computing": {
-      "MacBook Air": { // primary computing device
+      "Apple MacBook Air": { // primary computing device
         "Chip": "M4",
         "RAM": 25769803776,
         "OS": "macOS Sequoia 15.7.7"
       },
-      "Pixel 9a": { "OS": "Android 17" },
+      "Google Pixel 9a": { "OS": "Android 17" },
       "Panasonic CF-RZ6": { "OS": "Arch Linux" },
-      "VAIO PCG-C1": { "OS": ["Adélie Linux", "9front"] }
+      "Sony VAIO PCG-C1": { "OS": ["Adélie Linux", "9front"] }
     },
     "others": {
       "Headphones": "Sony MDR-M1",
