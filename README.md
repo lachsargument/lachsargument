@@ -33,6 +33,8 @@ GIS student. Knows a little `C`, `Python`, `Go`, and `TypeScript`.
 
 `LOVE YOU <3`
 
+I'm not commit farming. I'm just tinkering with my side projects. `╥﹏╥`
+
 <br>
 
 連絡先:
