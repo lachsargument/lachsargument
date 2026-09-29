@@ -6,6 +6,10 @@ GIS student. Knows a little `C`, `Python`, `Go`, and `TypeScript`.
 
 [![GitHub Roast score badge](https://ghfind.com/api/badge/lachsargument)](https://ghfind.com/u/lachsargument?ref=badge)
 
+<details><summary><b>equipments</b></summary>
+
+<br>
+
 ```jsonc
 {
   "devices": {
@@ -30,6 +34,8 @@ GIS student. Knows a little `C`, `Python`, `Go`, and `TypeScript`.
   }
 }
 ```
+
+</details>
 
 `LOVE YOU <3`
 
