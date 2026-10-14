@@ -43,7 +43,7 @@ Gadgets for macOS:
 
 | [**bookbinder**](https://github.com/lachsargument/bookbinder) | [**vid-compress**](https://github.com/lachsargument/vid-compress) | [**MenuProgress**](https://github.com/lachsargument/MenuProgress) | [**MenuCrypto**](https://github.com/lachsargument/MenuCrypto) | [**MenuClock**](https://github.com/lachsargument/MenuClock) |
 |---|---|---|---|---|
-| Binding or rebinding PDF files. Making A5 booklets. | Compressing Videos. "In defense of the Poor Image". | A menubar countdown tool. Tracking events.| A menubar crypto tracker. | A menubar clock. It would be useful when you have to make system timezone to a different location. |
+| Binds or rebinds PDF files, or makes A5 booklets. | Compresses videos. Inspired by "In Defense of the Poor Image." | Menu bar countdown tool for tracking events. | Menu bar cryptocurrency price tracker. | Menu bar clock. Useful when you have to change the system timezone. |
 
 連絡先:
 
