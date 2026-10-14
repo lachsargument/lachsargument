@@ -2,8 +2,6 @@
 
 GIS student. Knows a little `C`, `Python`, `Go`, and `TypeScript`.
 
-<br>
-
 [![GitHub Roast score badge](https://ghfind.com/api/badge/lachsargument)](https://ghfind.com/u/lachsargument?ref=badge)
 
 <details><summary><b>equipments</b></summary>
@@ -41,7 +39,11 @@ GIS student. Knows a little `C`, `Python`, `Go`, and `TypeScript`.
 
 I'm not commit farming. I'm just tinkering with my side projects. `╥﹏╥`
 
-<br>
+Gadgets for macOS:
+
+| [**bookbinder**](https://github.com/lachsargument/bookbinder) | [**vid-compress**](https://github.com/lachsargument/vid-compress) | [**MenuProgress**](https://github.com/lachsargument/MenuProgress) | [**MenuCrypto**](https://github.com/lachsargument/MenuCrypto) | [**MenuClock**](https://github.com/lachsargument/MenuClock) |
+|---|---|---|---|---|
+| Binding or rebinding PDF files. Making A5 booklets. | Compressing Videos. "In defense of the Poor Image". | A menubar countdown tool. Tracking events.| A menubar crypto tracker. | A menubar clock. It would be useful when you have to make system timezone to a different location. |
 
 連絡先:
 
