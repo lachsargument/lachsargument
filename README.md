@@ -19,7 +19,7 @@ Located in United Communes of North Chekiang, Commonwealth of Goetsu.
       "Apple MacBook Air": { // primary computing device
         "Chip": "M4",
         "RAM": 25769803776,
-        "OS": "macOS Sequoia 15.7.7"
+        "OS": "macOS Sequoia 15.8.1"
       },
       "Google Pixel 9a": { "OS": "Android 17" },
       "Panasonic CF-RZ6": { "OS": "Arch Linux" },
