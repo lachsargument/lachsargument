@@ -41,7 +41,9 @@ Located in the United Communes of North Chekiang, Commonwealth of Goetsu.
 
 `LOVE YOU <3`
 
+<!--
 I'm not commit farming. I'm just tinkering with my side projects. `╥﹏╥`
+-->
 
 Gadgets for macOS:
 
@@ -60,5 +62,6 @@ Gadgets for macOS:
   ]
 }
 ```
-
+<!--
 ここではないどこかに: [`freeCodeCamp`](https://www.freecodecamp.org/lachsargument)
+-->
