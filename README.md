@@ -2,9 +2,9 @@
 
 GIS student. Knows a little `C`, `Python`, `Go`, and `TypeScript`.
 
+<!--
 Located in the United Communes of North Chekiang, Commonwealth of Goetsu.
 
-<!--
 [![GitHub Roast score badge](https://ghfind.com/api/badge/lachsargument)](https://ghfind.com/u/lachsargument?ref=badge)
 -->
 
